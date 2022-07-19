@@ -2,7 +2,7 @@
 First github repo
 Hello
 Blah
-git clone
+git clone\n
 git add -> git commit
 git push origin main
 git log
